@@ -1,0 +1,49 @@
+*************Option Price Report***************
+Stock number 1
+Name of company:     Microsoft
+Address of company:  1_Marina_Blvd
+Stock spot price:    23.75
+Volatility of stock: 0.35
+Strike price:            15
+Risk free interest rate: 0.01
+Expiration in years:     0.5
+
+Call price:   8.879159e+000
+Put price:    5.434647e-002
+
+Stock number 2
+Name of company:     General_Electric
+Address of company:  10_Lok_Yang_Way
+Stock spot price:    30.14
+Volatility of stock: 0.332
+Strike price:            15
+Risk free interest rate: 0.01
+Expiration in years:     0.25
+
+Call price:   1.517746e+001
+Put price:    9.317524e-006
+
+Stock number 3
+Name of company:     Autodesk
+Address of company:  1_Fusionopolis_Walk
+Stock spot price:    127
+Volatility of stock: 0.15
+Strike price:            130
+Risk free interest rate: 0.0025
+Expiration in years:     0.75
+
+Call price:   5.360656e+000
+Put price:    8.117135e+000
+
+Stock number 4
+Name of company:     Deutsche_Bank
+Address of company:  30_Pasir_Panjang_Rd
+Stock spot price:    19.04
+Volatility of stock: 0.308
+Strike price:            18
+Risk free interest rate: 0.005
+Expiration in years:     1
+
+Call price:   2.870142e+000
+Put price:    1.740367e+000
+
